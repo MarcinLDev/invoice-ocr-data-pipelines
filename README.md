@@ -101,10 +101,13 @@ invoice-ocr-data-pipelines/
 │   └── example_ocr_output.txt
 └── README.md
 
+```
+
 ## Notes
 
 - Bucket names and paths are anonymized for public sharing
 - Full production implementation is kept in a private repository
+
 The pipeline is safe to re-run multiple times without producing duplicate outputs.
 
 
