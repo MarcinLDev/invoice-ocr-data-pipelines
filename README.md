@@ -97,8 +97,6 @@ invoice-ocr-data-pipelines/
 │           ├── ocr.py
 │           ├── process.py
 │           └── s3_utils.py
-├── data_samples/
-│   └── example_ocr_output.txt
 └── README.md
 
 ```
